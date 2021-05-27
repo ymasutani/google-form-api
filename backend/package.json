@@ -1,0 +1,10 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "@types/google-apps-script": "^1.0.33",
+    "tslint": "^6.1.3"
+  }
+}

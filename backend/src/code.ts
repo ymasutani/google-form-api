@@ -1,7 +1,10 @@
+import { hello } from './sub'
+
 function myFunction() {
   const greeting: string = 'hello, GAS'
   Logger.log(greeting);
 
   const aisatsu: string = 'こんにちは、GAS!'
   console.log(aisatsu);
+  hello()
 }

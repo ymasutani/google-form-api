@@ -1,5 +1,3 @@
-// ref: https://qiita.com/hand-dot/items/c288d8b32b6243c6cd36
-
 interface QuestionItem {
   id: number;
   title: string;

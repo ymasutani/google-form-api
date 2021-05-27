@@ -1,0 +1,15 @@
+{
+  "name": "google-form-api",
+  "version": "1.0.0",
+  "repository": "https://github.com/ymasutani/google-form-api.git",
+  "author": "'yuichi.masutani' aka r_manase",
+  "license": "UNLICENSED",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ],
+  "devDependencies": {
+    "typescript": "^4.3.2"
+  }
+}
